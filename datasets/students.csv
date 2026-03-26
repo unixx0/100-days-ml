@@ -1,0 +1,51 @@
+ID,Name,Gender,Color,Education_Level,Satisfaction,Purchase
+1,Fiona,Female,Blue,Master,Good,Yes
+2,Diana,Female,Red,PhD,Excellent,No
+3,George,Male,Green,Bachelor,Good,Yes
+4,Julia,Female,Yellow,High School,Average,No
+5,Charlie,Male,Blue,Bachelor,Poor,Yes
+6,Hannah,Female,Red,Master,Good,Yes
+7,Bob,Male,Yellow,PhD,Excellent,No
+8,Ethan,Male,Green,Bachelor,Average,Yes
+9,Alice,Female,Blue,Master,Good,No
+10,Ian,Male,Red,High School,Poor,Yes
+11,Fiona,Female,Yellow,Bachelor,Good,No
+12,Diana,Female,Green,PhD,Excellent,Yes
+13,George,Male,Blue,Master,Average,No
+14,Julia,Female,Red,Bachelor,Good,Yes
+15,Charlie,Male,Yellow,High School,Poor,No
+16,Hannah,Female,Green,Master,Good,Yes
+17,Bob,Male,Blue,PhD,Excellent,No
+18,Ethan,Male,Red,Bachelor,Average,Yes
+19,Alice,Female,Yellow,High School,Good,No
+20,Ian,Male,Green,Master,Poor,Yes
+21,Fiona,Female,Blue,Bachelor,Excellent,Yes
+22,Diana,Female,Red,Master,Good,No
+23,George,Male,Yellow,High School,Average,Yes
+24,Julia,Female,Green,PhD,Good,No
+25,Charlie,Male,Blue,Bachelor,Poor,Yes
+26,Hannah,Female,Red,Master,Good,Yes
+27,Bob,Male,Yellow,PhD,Excellent,No
+28,Ethan,Male,Green,Bachelor,Average,Yes
+29,Alice,Female,Blue,High School,Good,No
+30,Ian,Male,Red,Master,Poor,Yes
+31,Fiona,Female,Yellow,Bachelor,Good,Yes
+32,Diana,Female,Green,PhD,Excellent,No
+33,George,Male,Blue,Master,Average,Yes
+34,Julia,Female,Red,Bachelor,Good,No
+35,Charlie,Male,Yellow,High School,Poor,Yes
+36,Hannah,Female,Green,Master,Good,Yes
+37,Bob,Male,Blue,PhD,Excellent,No
+38,Ethan,Male,Red,Bachelor,Average,Yes
+39,Alice,Female,Yellow,High School,Good,No
+40,Ian,Male,Green,Master,Poor,Yes
+41,Fiona,Female,Blue,Bachelor,Excellent,Yes
+42,Diana,Female,Red,Master,Good,No
+43,George,Male,Yellow,High School,Average,Yes
+44,Julia,Female,Green,PhD,Good,No
+45,Charlie,Male,Blue,Bachelor,Poor,Yes
+46,Hannah,Female,Red,Master,Good,Yes
+47,Bob,Male,Yellow,PhD,Excellent,No
+48,Ethan,Male,Green,Bachelor,Average,Yes
+49,Alice,Female,Blue,High School,Good,No
+50,Ian,Male,Red,Master,Poor,Yes

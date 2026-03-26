@@ -1,0 +1,51 @@
+CustomerID,Age,Annual_Income,Spending_Score,Gender,City,Education,Satisfaction_Level,Purchased
+1001,23,35000,72,Male,Kathmandu,Bachelor's,Low,Yes
+1002,45,82000,45,Female,Pokhara,Master's,Medium,No
+1003,31,55000,88,Male,Lalitpur,High School,High,Yes
+1004,52,120000,30,Female,Kathmandu,PhD,Very High,Yes
+1005,28,42000,91,Female,Biratnagar,Bachelor's,Low,No
+1006,67,95000,20,Male,Pokhara,Master's,Medium,Yes
+1007,19,22000,65,Female,Lalitpur,High School,High,No
+1008,38,74000,55,Male,Kathmandu,Bachelor's,Very High,Yes
+1009,43,61000,40,Female,Biratnagar,PhD,Low,No
+1010,55,110000,35,Male,Pokhara,Master's,Medium,Yes
+1011,26,38000,80,Female,Kathmandu,High School,High,Yes
+1012,34,67000,60,Male,Lalitpur,Bachelor's,Very High,No
+1013,61,88000,25,Female,Biratnagar,Master's,Low,Yes
+1014,22,28000,95,Male,Kathmandu,High School,Medium,No
+1015,49,105000,42,Female,Pokhara,PhD,High,Yes
+1016,37,58000,70,Male,Lalitpur,Bachelor's,Very High,Yes
+1017,30,47000,83,Female,Kathmandu,Master's,Low,No
+1018,58,92000,28,Male,Biratnagar,Bachelor's,Medium,Yes
+1019,25,33000,76,Female,Pokhara,High School,High,No
+1020,42,78000,50,Male,Kathmandu,PhD,Very High,Yes
+1021,36,63000,67,Female,Lalitpur,Bachelor's,Medium,Yes
+1022,50,97000,38,Male,Pokhara,Master's,High,No
+1023,27,40000,85,Female,Kathmandu,High School,Low,Yes
+1024,64,130000,22,Male,Biratnagar,PhD,Very High,Yes
+1025,33,52000,74,Female,Lalitpur,Bachelor's,Medium,No
+1026,41,71000,58,Male,Kathmandu,Master's,High,Yes
+1027,20,25000,90,Female,Pokhara,High School,Low,No
+1028,57,103000,33,Male,Lalitpur,PhD,Very High,Yes
+1029,29,44000,79,Female,Biratnagar,Bachelor's,Medium,No
+1030,48,86000,47,Male,Kathmandu,Master's,High,Yes
+1031,35,60000,63,Female,Pokhara,Bachelor's,Very High,Yes
+1032,62,115000,27,Male,Lalitpur,PhD,Low,No
+1033,24,36000,87,Female,Kathmandu,High School,Medium,Yes
+1034,46,80000,43,Male,Biratnagar,Master's,High,No
+1035,39,68000,56,Female,Pokhara,Bachelor's,Very High,Yes
+1036,53,108000,36,Male,Kathmandu,PhD,Low,Yes
+1037,21,27000,92,Female,Lalitpur,High School,Medium,No
+1038,60,98000,24,Male,Biratnagar,Master's,High,Yes
+1039,32,50000,77,Female,Kathmandu,Bachelor's,Very High,No
+1040,44,76000,52,Male,Pokhara,PhD,Low,Yes
+1041,26,39000,82,Female,Lalitpur,High School,Medium,Yes
+1042,51,101000,39,Male,Kathmandu,Master's,High,No
+1043,38,65000,61,Female,Biratnagar,Bachelor's,Very High,Yes
+1044,65,125000,21,Male,Pokhara,PhD,Low,Yes
+1045,28,43000,86,Female,Kathmandu,High School,Medium,No
+1046,47,84000,46,Male,Lalitpur,Master's,High,Yes
+1047,33,54000,71,Female,Biratnagar,Bachelor's,Very High,No
+1048,56,106000,34,Male,Kathmandu,PhD,Low,Yes
+1049,22,29000,93,Female,Pokhara,High School,Medium,No
+1050,40,72000,54,Male,Lalitpur,Master's,High,Yes
