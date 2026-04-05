@@ -1,0 +1,15 @@
+1. SPLIT: train_test_split(X, y, test_size=0.2, random_state=42)
+
+2. IMPUTATION: IterativeImputer().fit(X_train).transform(X_train/X_test)
+   - Handles missing values using learned train correlations
+
+3. ENCODING: OneHotEncoder().fit(X_train).transform(X_train/X_test)  
+   - Converts categoricals (fit learns categories from train only)
+
+4. SCALING: StandardScaler().fit(X_train).transform(X_train/X_test)
+   - Normalizes using train mean/std only
+
+5. FEATURE SELECTION: SelectKBest().fit(X_train, y_train).transform()
+   - Selects best features based on train performance
+
+6. Train final model: model.fit(X_train_final, y_train)
